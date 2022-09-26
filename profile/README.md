@@ -12,9 +12,8 @@ the active participation of students during the class.
 > Live demo [_here_](https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/) <!-- If you have the project hosted somewhere, include the link here. -->
 <!-- > https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/ -->
 
-## Hosted Backend Link
-> Live demo [_(https://learnx.azurewebsites.net/)_]((https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/)). <!-- If you have the project hosted somewhere, include the link here. -->
-
+## Server Link
+> Live demo [_here_](https://learnx.azurewebsites.net/)
 
 
 ## Table of Contents
@@ -136,7 +135,7 @@ To fix a bug or enhance an existing module, follow these steps:
 * Avishka Hettiarachchi
 
 ## Contact
-* Maneth Wijetunga - manethwijetunga@yahoo.com
+* contactus.learning.io@gmail.com
 
 
 
