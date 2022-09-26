@@ -15,6 +15,9 @@ the active participation of students during the class.
 ## Server Link
 > Live demo [_here_](https://learnx.azurewebsites.net/)
 
+## Api Documentation
+> Postman Api Documentation [_here_](https://documenter.getpostman.com/view/20837792/2s83YVHRvw)
+
 
 ## Table of Contents
 * [General Info](#general-information)
