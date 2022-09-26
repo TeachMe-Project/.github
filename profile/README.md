@@ -9,16 +9,13 @@ the active participation of students during the class.
 > Live demo [_here_](https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Web App Link
-https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/
+
+> Live demo [_(https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/)_]([https://www.example.com](https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/)). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Hosted Backend Link
-https://learnx.azurewebsites.net/
+> Live demo [_(https://learnx.azurewebsites.net/)_]([https://www.example.com](https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/)). <!-- If you have the project hosted somewhere, include the link here. -->
 
-# LearnX
-> “LearnX” is an online education platform which facilitates students to join online classes,
-tutors to conduct online classes monitoring students’ activities and parents to track
-the active participation of students during the class.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
 
 ## Table of Contents
 * [General Info](#general-information)
