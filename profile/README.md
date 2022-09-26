@@ -6,7 +6,6 @@
 > “LearnX” is an online education platform which facilitates students to join online classes,
 tutors to conduct online classes monitoring students’ activities and parents to track
 the active participation of students during the class.
-> Live demo [_here_](https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Web App Link
 > Live demo [_here_](https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/) <!-- If you have the project hosted somewhere, include the link here. -->
