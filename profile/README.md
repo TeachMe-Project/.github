@@ -9,11 +9,11 @@ the active participation of students during the class.
 > Live demo [_here_](https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Web App Link
-
-> Live demo [_(https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/)_]([https://www.example.com](https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/)). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/) <!-- If you have the project hosted somewhere, include the link here. -->
+<!-- > https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/ -->
 
 ## Hosted Backend Link
-> Live demo [_(https://learnx.azurewebsites.net/)_]([https://www.example.com](https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/)). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_(https://learnx.azurewebsites.net/)_]((https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/)). <!-- If you have the project hosted somewhere, include the link here. -->
 
 
 
