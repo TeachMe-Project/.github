@@ -49,12 +49,15 @@ students through their account and keep track of student learning activities.
 
 
 ## Technologies Used
-- React JS
+- React TypeScript
 - Node JS
 - Express JS
 - MYSQL
 - Electron JS 
 - Twilio 
+- Prisma
+- Docker
+- Azure
 
 
 
