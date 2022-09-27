@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" src="https://github.com/TeachMe-Project/.github/blob/main/profile/6s.png?raw=true">
+  <img src="https://github.com/TeachMe-Project/.github/blob/main/profile/5s.png?raw=true">
 </p>
 
 # LearnX
