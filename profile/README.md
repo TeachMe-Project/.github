@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/TeachMe-Project/.github/blob/main/profile/5s.png?raw=true">
 </p>
 
