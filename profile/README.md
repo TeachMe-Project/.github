@@ -18,7 +18,7 @@ the active participation of students during the class.
 > Postman Api Documentation [_here_](https://documenter.getpostman.com/view/20837792/2s83YVHRvw)
 
 
-## Table of Contents
+<!-- ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
@@ -28,7 +28,7 @@ the active participation of students during the class.
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
+* [Contact](#contact) -->
 <!-- * [License](#license) -->
 
 
