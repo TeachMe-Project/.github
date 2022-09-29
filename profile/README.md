@@ -75,6 +75,15 @@ List the ready features here:
 <!-- ![Example screenshot](./img/screenshot.png) -->
 <!-- If you have screenshots you'd like to share, include them here. -->
 
+### A typical top-level directory layout
+
+    .
+    ├── .github                         # Contain Github actions
+    ├── server                 	    # Contain Server source file 
+    ├── twilio-video-app-react-new      # Desktop app source file 
+    ├── web-app                         # Contain web-app source file
+    └── README.md
+
 
 ## Installation and Setup Instructions
 
