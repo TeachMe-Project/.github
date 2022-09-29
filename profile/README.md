@@ -85,7 +85,7 @@ List the ready features here:
     └── README.md
 
 
-## Installation and Setup Instructions
+## Desktop Application Installation and Setup Instructions
 
 Clone down this repository. You will need node and npm installed globally on your machine.
 
