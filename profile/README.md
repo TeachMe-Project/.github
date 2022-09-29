@@ -71,8 +71,8 @@ List the ready features here:
 
 
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
+<!-- ## Screenshots -->
+<!-- ![Example screenshot](./img/screenshot.png) -->
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -82,7 +82,10 @@ Clone down this repository. You will need node and npm installed globally on you
 
 Installation:
 
+<code>
 npm install
+</code>
+
 
 To Run Test Suite:
 
