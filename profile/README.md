@@ -89,6 +89,10 @@ List the ready features here:
 
 Clone down this repository. You will need node and npm installed globally on your machine.
 
+Clone the repository
+
+` git clone https://github.com/TeachMe-Project/Main_Project.git`
+
 Installation:
 
 `npm install`
