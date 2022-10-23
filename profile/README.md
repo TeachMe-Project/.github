@@ -93,10 +93,11 @@ Clone the repository
 
 ` git clone https://github.com/TeachMe-Project/Main_Project.git`
 
+Go to each of the 3 directories web-app, server and twilio-video-app-react-new and carry out the following steps:
+
 Installation:
 
 `npm install`
-
 
 To Run Test Suite:
 
@@ -106,7 +107,7 @@ To Start Server:
 
 `npm start`
 
-To Visit App:
+To Visit Web App:
 
 localhost:3000/
 
