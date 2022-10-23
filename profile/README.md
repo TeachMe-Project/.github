@@ -111,13 +111,6 @@ To Visit App:
 localhost:3000/
 
 
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
 ## Project Status
 Project is: _in progress_ 
 
@@ -146,7 +139,7 @@ To fix a bug or enhance an existing module, follow these steps:
 ## Team
 * Maneth Wijetunga
 * Jonathan Dass
-* Bhashitha 
+* Bhashitha Ranasinghe
 * Prasad Lakshan
 * Avishka Hettiarachchi
 
