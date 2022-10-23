@@ -49,15 +49,14 @@ students through their account and keep track of student learning activities.
 
 
 ## Technologies Used
-- React TypeScript
-- Node JS
-- Express JS
-- MYSQL
-- Electron JS 
-- Twilio 
-- Prisma
-- Docker
-- Azure
+- React TypeScript: 16.12.0
+- Node JS: 16.17.0
+- Express JS: 4.18.1
+- MYSQL: MariaDB 10.4.24
+- Electron JS: 19.0.1
+- Twilio: 3.77.1
+- Prisma: 4.3.1
+- Docker: 20.10.17
 
 
 
