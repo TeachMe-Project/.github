@@ -120,6 +120,8 @@ Project is: _in progress_
 Room for improvement:
 - Enhance the number of participants that can attend an online class
 - Track student activity categorized by each application 
+- Machine learning model to detect participant behavior
+- Use of a realtime database to track client's applications
 
 ## Development
 
