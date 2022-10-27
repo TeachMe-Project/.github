@@ -12,7 +12,7 @@ the active participation of students during the class.
 <!-- > https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/ -->
 
 ## Server Link
-> Live demo [_here_](https://learnx.azurewebsites.net/)
+> Live demo [_here_](https://learnxy.azurewebsites.net/)
 
 ## Api Documentation
 > Postman Api Documentation [_here_](https://documenter.getpostman.com/view/20837792/2s83YVHRvw)
