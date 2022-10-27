@@ -12,10 +12,10 @@ the active participation of students during the class.
 <!-- > https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/ -->
 
 ## Server Link
-> Live demo [_here_](https://learnxy.azurewebsites.net/)
+> Live demo [_https://learnxy.azurewebsites.net/_](https://learnxy.azurewebsites.net/)
 
 ## Api Documentation
-> Postman Api Documentation [_here_](https://documenter.getpostman.com/view/20837792/2s83YVHRvw)
+> Postman Api Documentation [_https://documenter.getpostman.com/view/20837792/2s83YVHRvw_](https://documenter.getpostman.com/view/20837792/2s83YVHRvw)
 
 
 <!-- ## Table of Contents
@@ -142,7 +142,7 @@ To fix a bug or enhance an existing module, follow these steps:
 * Maneth Wijetunga
 * Jonathan Dass
 * Bhashitha Ranasinghe
-* Prasad Lakshan
+* Prasad Lakshan 
 * Avishka Hettiarachchi
 
 ## Contact
