@@ -8,7 +8,7 @@ tutors to conduct online classes monitoring students’ activities and parents t
 the active participation of students during the class.
 
 ## Web App Link
-> Live demo [_here_](https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/) <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://sweet-cannoli-38633d.netlify.app/) <!-- If you have the project hosted somewhere, include the link here. -->
 <!-- > https://deploy-preview-84--sweet-cannoli-38633d.netlify.app/ -->
 
 ## Server Link
