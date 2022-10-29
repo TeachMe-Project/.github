@@ -110,6 +110,13 @@ To Visit Web App:
 
 [localhost:3000/](http://localhost:3000/)
 
+For Desktop Application
+
+`npm run destop`
+
+For Server
+
+`npm run serve`
 
 ## Project Status
 Project is: _in progress_ 
