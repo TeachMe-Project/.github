@@ -103,25 +103,19 @@ Installation:
 
 `npm install`
 
-To Run Test Suite:
+To Start Application:
+```sh
+npm run start            # For Web app
+npm run destop           # For Desktop app
+npm run serve            # For Server
+```
 
-`npm test`
 
-To Start Server:
+To Visit Web App & Server:
 
-`npm start`
-
-To Visit Web App:
-
-[localhost:3000/](http://localhost:3000/)
-
-For Desktop Application
-
-`npm run destop`
-
-For Server
-
-`npm run serve`
+[localhost:3000/](http://localhost:3000/) # For Web-app 
+<br/>
+[localhost:8081/](http://localhost:8081/) # For Server
 
 ## Project Status
 Project is: _in progress_ 
