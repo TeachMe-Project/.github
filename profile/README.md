@@ -93,6 +93,11 @@ Clone the repository
 ` git clone https://github.com/TeachMe-Project/Main_Project.git`
 
 Go to each of the 3 directories web-app, server and twilio-video-app-react-new and carry out the following steps:
+```sh
+cd web-app                     # For Web app
+cd twilio-video-app-react-new  # For Desktop app
+cd server                      # For Server
+```
 
 Installation:
 
