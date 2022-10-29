@@ -103,6 +103,13 @@ Installation:
 
 `npm install`
 
+Before Start the Server run below commands:
+```sh
+npx prisma db pull
+npx prisma generate
+```
+
+
 To Start Application:
 ```sh
 npm run start            # For Web app
