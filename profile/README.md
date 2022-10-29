@@ -80,9 +80,8 @@ List the ready features here:
     ├── .github                         # Contain Github actions
     ├── server                 	    # Contain Server source file 
     ├── twilio-video-app-react-new      # Desktop app source file 
-    ├── web-app                         # Contain web-app source file
-    └── README.md
-
+    └── web-app                         # Contain web-app source file
+     
 
 ## Application Installation and Setup Instructions
 
