@@ -113,9 +113,10 @@ npm run serve            # For Server
 
 To Visit Web App & Server:
 
-[localhost:3000/](http://localhost:3000/) # For Web-app 
-<br/>
-[localhost:8081/](http://localhost:8081/) # For Server
+```sh
+http://localhost:3000/           # For Web app
+http://localhost:8081/           # For Server
+```
 
 ## Project Status
 Project is: _in progress_ 
